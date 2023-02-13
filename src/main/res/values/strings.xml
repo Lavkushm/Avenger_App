@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity LifeCycle</string>
+    <string name="new_app_name">Marvel</string>
+    <string name="mobile_number">Enter mobile number</string>
+    <string name="enter_password">Enter password</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">forgot Password</string>
+    <string name="register_yourself">Register yourself</string>
+</resources>
